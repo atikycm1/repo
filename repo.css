@@ -25,3 +25,10 @@
 h1{
   color:orangered;
 }
+
+#all{
+  background-image: url("1.jpg");
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-position: cover;
+}
